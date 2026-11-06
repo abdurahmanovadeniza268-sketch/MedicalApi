@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using MedicalApi;
+using MedicalApi.Models;
 namespace MedicalApi.Controllers
 {
     [ApiController]
